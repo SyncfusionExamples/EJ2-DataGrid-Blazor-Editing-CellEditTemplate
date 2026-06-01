@@ -12,7 +12,6 @@ The project includes:
 - **Inline editing** with custom cell edit templates
 - A **dropdown selector** for the ShipCity column
 - Complete order details model with typed properties
-- Server-side Blazor hosting with Syncfusion components
 
 ## Features
 
@@ -26,7 +25,7 @@ The project includes:
 
 * [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or later
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [.NET SDK 7.0](https://dotnet.microsoft.com/download/dotnet/7.0) or later
+* [.NET SDK 9.0](https://dotnet.microsoft.com/download/dotnet/9.0) or later
 
 ## Getting Started
 
@@ -51,7 +50,7 @@ cd EJ2-DataGrid-Blazor-Editing-CellEditTemplate
 dotnet restore
 
 # Run the project
-dotnet run --project CellEditTemplateSample.csproj
+dotnet run
 ```
 
 ## References
