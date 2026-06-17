@@ -24,9 +24,9 @@ The project includes:
 
 ## Prerequisites
 
+* [.NET SDK 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) or later
 * [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or later
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [.NET SDK 7.0](https://dotnet.microsoft.com/download/dotnet/7.0) or later
 
 ## Getting Started
 
@@ -51,11 +51,11 @@ cd EJ2-DataGrid-Blazor-Editing-CellEditTemplate
 dotnet restore
 
 # Run the project
-dotnet run --project CellEditTemplateSample.csproj
+dotnet run
 ```
 
 ## References
 
-**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/edit-types#render-custom-cell-editors
+**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/getting-started-with-web-app
 
-**Online example**: https://blazor.syncfusion.com/demos/datagrid/inline-editing?theme=bootstrap5
+**Online examples**: https://blazor.syncfusion.com/demos/datagrid/overview?theme=fluent2
