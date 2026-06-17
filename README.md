@@ -34,7 +34,7 @@ The project includes:
 
 ```bash
 git clone https://github.com/SyncfusionExamples/EJ2-DataGrid-Blazor-Editing-CellEditTemplate.git
-cd CreatingSmithChartSample
+cd EJ2-DataGrid-Blazor-Editing-CellEditTemplate
 ```
 
 ### Run with Visual Studio
